@@ -10,4 +10,4 @@ public class ArrayLists {
 		System.out.println(list.size());
 	}
 
-}
+} 
