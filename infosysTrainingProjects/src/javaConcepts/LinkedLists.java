@@ -2,6 +2,12 @@ package javaConcepts;
 import java.util.List;
 import java.util.LinkedList;
 
+/*
+
+we can implement the scenario of Noah travelling to various places of Europe using the LinkedList class.
+
+*/
+
 public class LinkedLists {
 
 	public static class EuropeTrip {
