@@ -1,5 +1,30 @@
 package javaConcepts;
 
+/*
+You need to develop an application for cab service providers by implementing the classes based on the class diagram and description given below.
+
+Method Description
+
+CabServiceProvider
+
+CabServiceProvider(String cabServiceName, int totalCabs)
+
+Initialize all the instance variables appropriately with the values passed to the constructor.
+calculateRewardPrice(Driver driver)
+
+Calculate and return the bonus of the driver based on the below table. If averageRating of the driver is less than 4, return the bonus as 0.   
+
+
+In case of any invalid value, return the bonus as 0. 
+Note: Round off the bonus to 2 decimal digits.
+
+Implement the appropriate getter and setter methods.
+
+Perform case-sensitive comparison wherever applicable.
+
+Test the functionalities using the provided Tester class. 
+*/
+
 public class Association {   
     public static class CabServiceProvider {
 	private String cabServiceName;
