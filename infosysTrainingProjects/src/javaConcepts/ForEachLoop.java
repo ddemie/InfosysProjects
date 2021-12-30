@@ -1,5 +1,15 @@
 package javaConcepts;
 
+/*
+
+Find and return the average salary,
+number of salaries greater than the average salary and number of salaries lesser than the average salary from the salary array passed to the findDetails() method. 
+Return a double array containing average salary in index position 0, 
+number of salaries greater than the average salary in index position 1 and number of salaries lesser than the average salary in index position 2. 
+Implement the logic inside findDetails() method.
+
+*/
+
 public class ForEachLoop {
 public static class Tester {
     
