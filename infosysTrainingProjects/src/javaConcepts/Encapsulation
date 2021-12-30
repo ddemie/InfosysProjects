@@ -1,3 +1,13 @@
+/*
+
+Consider the class Employee given below for representing employees of an organization. It has 5 different instance variables and a method to calculate the total salary based on the jobLevel.
+
+Salary is calculated in the calculateSalary() method.
+
+Make necessary changes to the class by making all the attributes private and by adding necessary accessor and mutator methods thus bringing in Encapsulation.
+
+*/
+
 public class Encapsulation {
 	
 
