@@ -1,3 +1,16 @@
+/*
+
+Method Description
+
+checkPalindrome(String str)
+
+Check whether the string passed to the method is a palindrome or not. 
+
+Return true if the string is palindrome, else return false.
+
+*/
+
+
 package javaConcepts;
 
 public class Strings {
