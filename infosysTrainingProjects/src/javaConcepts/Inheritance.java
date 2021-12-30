@@ -1,5 +1,13 @@
 package javaConcepts;
 
+/*
+
+Two classes - Camera and Digital Camera are provided.
+
+The Digital Camera class is being inherited by the Camera class.
+
+*/
+
 public class Inheritance {
 	public static class Camera {
 		private String brand;
