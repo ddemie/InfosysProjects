@@ -1,3 +1,6 @@
+//Program to illustrate the use of multidimensional array by showing the temperature and the day
+
+
 package javaConcepts;
 
 public class MultiDementionalArrays {
