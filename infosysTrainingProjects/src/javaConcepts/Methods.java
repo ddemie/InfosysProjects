@@ -1,3 +1,16 @@
+/*
+
+Method Description
+
+findAverage()
+
+Calculate the average of three numbers
+
+Return the average rounded off to two decimal digits
+
+*/
+
+
 package javaConcepts;
 
 public class Methods {
