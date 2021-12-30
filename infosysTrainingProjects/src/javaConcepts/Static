@@ -1,3 +1,19 @@
+/*
+
+Method Description
+
+Bill(String paymentMode)
+
+Initialize the paymentMode instance variable with the value passed to the parameter. 
+
+Generate the billId using counter. The value of billId should start from 'B9001' and the numerical part should be incremented by 1 for the subsequent values. Initialize the counter in static block.
+
+Implement the appropriate getter and setter methods.
+
+*/
+
+
+
 Public class Static{
 public static class Bill{
     private static int counter;
