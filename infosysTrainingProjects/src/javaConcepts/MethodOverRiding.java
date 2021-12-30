@@ -1,6 +1,14 @@
+/*
+
+The code given below shows the different possibilities of using parent and child class references and objects together.
+
+*/
+
+
+
 package javaConcepts;
 
-public class MethodOverloading {
+public class MethodOverRiding {
   public static class Tester {
 
 	public static void main(String[] args) {
