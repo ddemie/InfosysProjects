@@ -1,5 +1,17 @@
 package javaConcepts;
-//Aggragation in Java 
+/*
+Implement the getter and setter methods appropriately.
+
+Book
+
+Method Description
+
+displayAuthorDetails()
+
+Display the details of the author for the book.
+
+Implement the getter and setter methods appropriately.
+*/
 public class Aggregation {
 	public static class Author {
 		private String name;
