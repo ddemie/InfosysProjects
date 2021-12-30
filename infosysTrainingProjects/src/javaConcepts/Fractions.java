@@ -1,5 +1,8 @@
 package javaConcepts;
 
+//Below program shows how to add and simplify fractions in java
+
+
 public class Fractions {
 	public static void main(String[] args) {
 		int n1 = 5;
