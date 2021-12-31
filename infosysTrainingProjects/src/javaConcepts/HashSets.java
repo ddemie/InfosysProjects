@@ -1,5 +1,8 @@
 package javaConcepts;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /*
 
 Set can contain only unique elements and size() method is used to get the number of elements present in the HashSet.
