@@ -1,3 +1,5 @@
+package javaConcepts;
+
 /*
 
 Consider the class Employee given below for representing employees of an organization. It has 5 different instance variables and a method to calculate the total salary based on the jobLevel.
